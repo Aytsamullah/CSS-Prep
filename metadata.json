@@ -1,0 +1,10 @@
+{
+  "name": "Remix CSS Prep AI",
+  "description": "A comprehensive preparation platform for the Central Superior Services (CSS) exam, featuring AI-powered short answer evaluation, MCQ practice, and subject tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
